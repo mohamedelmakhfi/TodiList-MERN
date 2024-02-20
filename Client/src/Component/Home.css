@@ -1,0 +1,12 @@
+.title {
+    margin-top: 40px;
+    font-weight: bold;
+}
+
+.title h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    color: beige;
+}
